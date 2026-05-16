@@ -1,4 +1,4 @@
-# Prompt Injection Detection Framework
+🔰 Prompt Injection Detection Framework
 
 A cybersecurity framework for detecting prompt injection attacks using:
 
@@ -7,7 +7,7 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Semantic Similarity
 - Risk Scoring
 
-## Features
+🔵 Features
 
 - Real-time prompt analysis
 - Streamlit web interface
@@ -15,7 +15,7 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Multi-layer detection logic
 - Evaluation metrics
 
-## Technologies Used
+🔵 Technologies Used
 
 - Python
 - Streamlit
@@ -23,7 +23,7 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Pandas
 - Scikit-learn
 
-## Setup
+🔵 Setup
 
 Run:
 
@@ -35,7 +35,7 @@ Run:
 
 run_app.bat
 
-## Research Notice
+❗❗ Research Notice
 
 This framework is intended for educational and research purposes.
 
