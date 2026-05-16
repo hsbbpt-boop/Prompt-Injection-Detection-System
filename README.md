@@ -15,27 +15,44 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Multi-layer detection logic
 - Evaluation metrics
 
-🔵 Technologies Used
+##🔵## Technologies Used
 
 - Python
 - Streamlit
 - SentenceTransformers
 - Pandas
 - Scikit-learn
+---
+##🔵## Quick Start
+1. Download the Project
 
-🔵 Setup
+   Download the ZIP package from the repository releases section or use GitHub's Download ZIP option
+2. Extract the ZIP File
+
+Extract the project folder before running any files.
+
+3. Install Dependencies
 
 Run:
 
 setup.bat
 
-▶ Start Application
+4. Start the Application
 
 Run:
 
 run_app.bat
 
-Note: Please do not close this terminal window.
+The Streamlit web interface will automatically open in your browser.
+
+---
+
+# Requirements
+
+- Python 3.10 or later
+- Internet connection (required during initial model download)
+
+---
 
 ❗❗ Research Notice
 
