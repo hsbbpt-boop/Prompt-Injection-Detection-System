@@ -1,4 +1,4 @@
-🔰 Prompt Injection Detection Framework
+☑️ Prompt Injection Detection Framework
 
 A cybersecurity framework for detecting prompt injection attacks using:
 
