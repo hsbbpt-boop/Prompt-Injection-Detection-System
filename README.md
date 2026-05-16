@@ -15,7 +15,7 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Multi-layer detection logic
 - Evaluation metrics
 
-#🔵Technologies Used
+🔵Technologies Used
 
 - Python
 - Streamlit
@@ -23,7 +23,7 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Pandas
 - Scikit-learn
 ---
-##🔵## Quick Start
+**🔵** Quick Start
 1. Download the Project
 
    Download the ZIP package from the repository releases section or use GitHub's Download ZIP option
