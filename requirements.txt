@@ -1,0 +1,8 @@
+streamlit
+pandas
+sentence-transformers
+torch
+scikit-learn
+matplotlib
+colorama
+pyarrow
