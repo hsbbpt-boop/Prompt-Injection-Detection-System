@@ -29,12 +29,13 @@ Run:
 
 setup.bat
 
-## Start Application
+▶ Start Application
 
 Run:
 
 run_app.bat
-Note: Pleae do not close this terminal window.
+Note: Please do not close this terminal window.
+
 ❗❗ Research Notice
 
 This framework is intended for educational and research purposes.
