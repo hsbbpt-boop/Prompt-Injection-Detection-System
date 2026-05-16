@@ -15,7 +15,7 @@ A cybersecurity framework for detecting prompt injection attacks using:
 - Multi-layer detection logic
 - Evaluation metrics
 
-##🔵## Technologies Used
+#🔵Technologies Used
 
 - Python
 - Streamlit
