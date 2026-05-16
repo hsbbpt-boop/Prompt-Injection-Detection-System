@@ -1,2 +1,45 @@
-# Prompt-Injection-Detection-System
-A cybersecurity-focused framework developed to detect prompt injection attacks targeting Large Language Models (LLMs) using a multi-layered detection approach.The framework combines:  Keyword Analysis, Pattern Matching, Intent-Based Detection, Semantic Similarity Analysis and  Risk Scoring.
+# Prompt Injection Detection Framework
+
+A cybersecurity framework for detecting prompt injection attacks using:
+
+- Keyword Analysis
+- Pattern Matching
+- Semantic Similarity
+- Risk Scoring
+
+## Features
+
+- Real-time prompt analysis
+- Streamlit web interface
+- Attack severity scoring
+- Multi-layer detection logic
+- Evaluation metrics
+
+## Technologies Used
+
+- Python
+- Streamlit
+- SentenceTransformers
+- Pandas
+- Scikit-learn
+
+## Setup
+
+Run:
+
+setup.bat
+
+## Start Application
+
+Run:
+
+run_app.bat
+
+## Research Notice
+
+This framework is intended for educational and research purposes.
+
+Detection accuracy may vary depending on:
+- unseen attack patterns
+- semantic ambiguity
+- prompt phrasing
