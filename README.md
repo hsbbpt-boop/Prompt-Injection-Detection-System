@@ -34,6 +34,7 @@ setup.bat
 Run:
 
 run_app.bat
+
 Note: Please do not close this terminal window.
 
 ❗❗ Research Notice
