@@ -34,7 +34,7 @@ setup.bat
 Run:
 
 run_app.bat
-
+Note: Pleae do not close this terminal window.
 ❗❗ Research Notice
 
 This framework is intended for educational and research purposes.
